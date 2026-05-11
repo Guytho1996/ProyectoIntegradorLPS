@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature automatic="selected" name="Proyecto_EHealth_SaaS"/>
+	<feature automatic="selected" name="Base"/>
+	<feature automatic="selected" name="Seguridad"/>
+	<feature manual="selected" name="Autenticacion"/>
+	<feature manual="selected" name="Control_Roles"/>
+	<feature manual="selected" name="Auditoria"/>
+	<feature automatic="selected" name="Gestion_Administrativa"/>
+	<feature automatic="selected" name="Pacientes"/>
+	<feature automatic="selected" name="Agenda"/>
+	<feature name="Notificaciones"/>
+	<feature name="Email"/>
+	<feature name="WhatsApp"/>
+	<feature automatic="selected" name="Gestion_Clinica"/>
+	<feature automatic="selected" name="Historia_Base"/>
+	<feature automatic="selected" name="Especialidad"/>
+	<feature automatic="unselected" name="Odontologia"/>
+	<feature automatic="unselected" name="Cardiologia"/>
+	<feature manual="selected" name="Medicina_General"/>
+	<feature name="Telemedicina"/>
+	<feature name="Receta_Electronica"/>
+	<feature name="Firma_Digital"/>
+	<feature automatic="selected" name="Facturacion"/>
+	<feature automatic="selected" name="Cobro_Manual"/>
+	<feature name="Pagos_Online"/>
+	<feature name="Kushki"/>
+	<feature name="DeUna"/>
+</configuration>
